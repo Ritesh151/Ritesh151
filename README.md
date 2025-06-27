@@ -1,4 +1,4 @@
-# 💻 Ritesh Gajjar | Full Stack Developer & Mobile Engineer
+# 💻 Ritesh Gajjar | Versatile Developer - Full Stack • Mobile • Desktop Applications
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-riteshgajjarport.netlify.app-2ea44f?style=flat-square)](https://riteshgajjarport.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ritesh-gajjar)
