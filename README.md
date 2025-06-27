@@ -1,4 +1,4 @@
-# 💻 Ritesh Gajjar | Versatile Developer - Full Stack • Mobile • Desktop Applications
+# 💻 Ritesh Gajjar | Versatile Developer - Website Designer • Mobile • Desktop Applications
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-riteshgajjarport.netlify.app-2ea44f?style=flat-square)](https://riteshgajjarport.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ritesh-gajjar)
@@ -17,16 +17,38 @@
 - **DevOps**: CI/CD, Docker, Azure
 - **Security**: OWASP principles, Secure Coding
 
-### Programming Languages
+---
+
+### 🧠 Programming Languages & Focus Area
+
 <p align="left">
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+  <a href="https://www.geeksforgeeks.org/c-programming-language/">
+    <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/c-plus-plus/">
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/java/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/python-programming-language/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/php/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/laravel/">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/introduction-to-jsp/">
+    <img alt="JSP" src="https://img.shields.io/badge/JSP-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/data-analytics/">
+    <img alt="Future Data Analytics" src="https://img.shields.io/badge/Future_Data_Analytics-009688?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  </a>
 </p>
+
+---
 
 ## 🚀 Highlighted Projects
 
@@ -44,6 +66,8 @@
 - Optimized performance for low-end devices (reduced APK size by 40%)
 - Added multilingual support (Hindi/English) with audio playback
 
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -55,11 +79,15 @@
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=riteshgajjar&theme=react-dark&hide_border=true" />
 </p>
 
+---
+
 ## 🏆 Certifications & Achievements
 - **Microsoft Certified**: Azure Fundamentals (AZ-900)
 - **freeCodeCamp**: Full Stack Development Certification
 - **Cisco Networking Academy**: Cybersecurity Essentials
 - **Google Developer Groups**: Flutter Hackathon Finalist 2023
+
+---
 
 ## 💡 Problem Solving Skills
 - Solved 500+ problems on LeetCode/GeeksforGeeks (Max Rating: 1800)
@@ -69,11 +97,15 @@
   - Design Patterns (MVC, MVVM, Clean Architecture)
   - RESTful API Design
 
+---
+
 ## 🌟 Professional Highlights
 - Developed 15+ production-grade applications
 - Reduced app load time by 65% through performance optimization
 - Implemented CI/CD pipelines reducing deployment time by 80%
 - Mentored 5 junior developers in Flutter best practices
+
+---
 
 ## 📫 Let's Collaborate
 <p align="left">
