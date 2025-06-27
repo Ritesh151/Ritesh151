@@ -99,26 +99,36 @@
 
 ## 💼 Featured Projects
 
-### 🔹 [🧾 Expense Manager App](https://github.com/riteshgajjar/expense-manager)
-> A Flutter-based app to manage your daily expenses with categories, Hive DB, charts & CSV export.  
-**Tech Stack:** Flutter, Hive, Provider, fl_chart
+### 🔹 [🧾 Shree Hanumanji ]([https://github.com/riteshgajjar/expense-manager](https://github.com/Ritesh151/Shree-Hanuman.git))
+A beautifully designed Flutter application dedicated to **Shree Hanumanji**, presenting powerful spiritual content including:
 
-### 🔹 [📷 OCR ID Extractor](https://github.com/riteshgajjar/ocr-id-parser)
-> Upload PAN/Aadhar images and auto-fill a Word doc using OCR.  
-**Tech Stack:** React, Node.js, Tesseract.js, Express
+- 🌸 **Hanuman Chalisa** (with meaning)
+- 🛡️ **Bajrang Baan**
+- 🕉️ **Mantras**
+- 🔥 **Aarti**
+- 📖 **Ramayan Characters Information**
 
-### 🔹 [🌐 Portfolio Website](https://riteshgajjarport.netlify.app)
-> Personal portfolio showcasing skills, projects, and contact form.  
-**Tech Stack:** HTML, CSS, JavaScript, Netlify
+> ✨ Whether you're seeking daily devotion or spiritual learning, this app provides a clean, offline-ready experience to connect with Lord Hanuman's teachings and values.
+
+### 🔹 [📷 Srimad Bhagvat Geeta]([https://github.com/riteshgajjar/ocr-id-parser](https://github.com/Ritesh151/Srimad-Bhagvat-Geeta.git))
+A beautifully crafted **Flutter application** that brings the divine verses of the **Srimad Bhagavad Gita** to your fingertips. This app presents **all Shloks (verses)** along with their **meanings and detailed explanations**, while also allowing users to **listen** to the Shloks and their interpretations.
+## ✨ Features
+
+- 🕉️ **All 700 Shloks** from all 18 chapters
+- 📚 **Meaning & Detailed Explanation** for every Shlok in Hindi/English
+- 🔊 **Audio Playback** of each Shlok with meaning
+- 🔍 Easy navigation between chapters and verses
+- 📖 Clean and intuitive UI built with Flutter
+- 🌙 Light & Dark Mode support (optional)
 
 ---
 
 ## 🏆 Certifications
 
-- Meta Frontend Developer – Coursera  
-- Google Cybersecurity – Coursera  
-- Flutter & Dart Bootcamp – Udemy  
-- JavaScript & React Mastery – Coding Ninjas  
+- freeCodecamp - HTML, CSS, JavaScript, Python, DSA, ML
+- Microsfot Learn - Azure
+- Flutter & Dart – Udemy  
+- Cisco Networking Academy - Cyber Security
 
 ---
 
@@ -142,13 +152,6 @@
 | Tools         | Git, GitHub, VS Code, Android Studio |
 | DSA & Logic   | C, C++, Java, Python |
 
----
-
-## 📝 Latest Blogs
-
-- [Build Your First OCR App with React & Tesseract.js](https://riteshgajjar.medium.com)
-- [Mastering State Management in Flutter with Provider](https://riteshgajjar.medium.com)
-- [Cybersecurity 101 for Developers](https://riteshgajjar.medium.com)
 
 ---
 
