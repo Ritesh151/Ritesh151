@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer | Flutter & Firebase | MERN Stack  
 💡 Exploring Cybersecurity & AI  
-🌐 [My Portfolio](https://your-portfolio-link.com) | 📧 ritesh@example.com
+🌐 [My Portfolio]([https://your-portfolio-link.com](https://riteshgajjarport.netlify.app/)) | 📧 riteshgajjarop1510@gmail.com
 
 ## 🔧 Tech Stack
 
@@ -59,21 +59,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgajjar&layout=compact&theme=radical)](https://github.com/riteshgajjar)
 
-## 🌟 Featured Projects
-
-- **Flutter E-commerce App** - [GitHub](https://github.com/...) | [Live Demo](https://...)
-- **MERN Stack Blog Platform** - [GitHub](https://github.com/...) | [Live Demo](https://...)
-- **Firebase Authentication System** - [GitHub](https://github.com/...)
 
 ## 📫 Let's Connect
 <p>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ritesh-gajjar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="[https://twitter.com/yourhandle](https://www.instagram.com/itz_ritesh_1510?igsh=MTMwemo2czQ1aGRxZg%3D%3D)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:ritesh@example.com">
+  <a href="mailto:riteshgajjarop1510@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
