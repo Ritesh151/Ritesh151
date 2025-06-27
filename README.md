@@ -2,18 +2,30 @@
 
 🚀 Full Stack Developer | Flutter & Firebase | MERN Stack  
 💡 Exploring Cybersecurity & AI  
-🌐 [My Portfolio]([https://your-portfolio-link.com](https://riteshgajjarport.netlify.app/)) | 📧 riteshgajjarop1510@gmail.com
+🌐 [My Portfolio](https://riteshgajjarport.netlify.app/) | 📧 riteshgajjarop1510@gmail.com
 
 ## 🔧 Tech Stack
 
 ### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <a href="https://www.geeksforgeeks.org/javascript/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/what-is-typescript/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/dart-programming-language/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/python-programming-language/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/php-tutorial/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
 </p>
 
 ### Frontend Development
@@ -55,17 +67,15 @@
 
 ## 📊 GitHub Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshgajjar&show_icons=true&theme=radical)
-
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshgajjar&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgajjar&layout=compact&theme=radical)](https://github.com/riteshgajjar)
-
 
 ## 📫 Let's Connect
 <p>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ritesh-gajjar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://www.linkedin.com/in/ritesh-gajjar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://twitter.com/yourhandle](https://www.instagram.com/itz_ritesh_1510?igsh=MTMwemo2czQ1aGRxZg%3D%3D)">
+  <a href="https://www.instagram.com/itz_ritesh_1510">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:riteshgajjarop1510@gmail.com">
