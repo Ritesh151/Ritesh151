@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Ritesh Gajjar
 
-<!--
-**Ritesh151/Ritesh151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Flutter & Firebase | MERN Stack  
+💡 Exploring Cybersecurity & AI  
+🌐 [My Portfolio](https://your-portfolio-link.com)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 🖥️ Frontend: React, Flutter
+- 🔙 Backend: Node.js, Express.js
+- 🗄️ Database: MongoDB, Firebase
+- ⚙️ Dev Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshgajjar&show_icons=true&theme=radical)
