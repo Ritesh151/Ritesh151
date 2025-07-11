@@ -10,11 +10,11 @@
 ## 🛠️ Technical Expertise
 
 ### Core Competencies
-- **Frontend**: Flutter, React, Vue, Next.js
-- **Backend**: Node.js, Express, Django, Spring Boot
+- **Frontend**: Flutter, React, Next.js
+- **Backend**: Node.js, Express js, 
 - **Mobile**: Flutter (iOS & Android)
-- **Databases**: MongoDB, PostgreSQL, Firebase
-- **DevOps**: CI/CD, Docker, Azure
+- **Databases**: MongoDB, MySQL, Firebase
+- **DevOps**: CI/CD
 - **Security**: OWASP principles, Secure Coding
 
 ---
