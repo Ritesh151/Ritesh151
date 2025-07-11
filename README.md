@@ -37,12 +37,6 @@
   <a href="https://www.geeksforgeeks.org/php/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.geeksforgeeks.org/laravel/">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/introduction-to-jsp/">
-    <img alt="JSP" src="https://img.shields.io/badge/JSP-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://www.geeksforgeeks.org/data-analytics/">
     <img alt="Future Data Analytics" src="https://img.shields.io/badge/Future_Data_Analytics-009688?style=for-the-badge&logo=google-analytics&logoColor=white" />
   </a>
