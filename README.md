@@ -1,4 +1,4 @@
-# 💻 Ritesh Gajjar | Versatile Developer - Website Designer • Mobile • Desktop Applications
+# 💻 Ritesh Gajjar | Versatile Developer - Front-End Web Developer • Mobile Applications • Desktop Applications
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-riteshgajjarport.netlify.app-2ea44f?style=flat-square)](https://riteshgajjarport.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ritesh-gajjar)
