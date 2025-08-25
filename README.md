@@ -75,9 +75,8 @@
 
 ## 🏆 Certifications & Achievements
 - **Microsoft Certified**: Azure Fundamentals (AZ-900)
-- **freeCodeCamp**: Full Stack Development Certification
-- **Cisco Networking Academy**: Cybersecurity Essentials
-- **Google Developer Groups**: Flutter Hackathon Finalist 2023
+- **Data Science Pro Program**: Data Science Pro Program Certification
+- **Ethical Hacking - Udemy**: Cybersecurity course from Udemy
 
 ---
 
@@ -92,7 +91,7 @@
 ---
 
 ## 🌟 Professional Highlights
-- Developed 15+ production-grade applications
+- Developed 12+ production-grade applications
 - Reduced app load time by 65% through performance optimization
 - Implemented CI/CD pipelines reducing deployment time by 80%
 - Mentored 5 junior developers in Flutter best practices
