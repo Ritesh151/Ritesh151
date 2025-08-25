@@ -11,16 +11,14 @@
 
 ### Core Competencies
 - **Frontend**: Flutter, React, Next.js
-- **Backend**: Node.js, Express js, 
+- **Backend**: Node.js
 - **Mobile**: Flutter (iOS & Android)
 - **Databases**: MongoDB, MySQL, Firebase
-- **DevOps**: CI/CD
-- **Security**: OWASP principles, Secure Coding
+- **Security**: OWASP principles, Secure Coding, Cyber Sec. 
 
 ---
 
 ### 🧠 Programming Languages & Focus Area
-
 <p align="left">
   <a href="https://www.geeksforgeeks.org/c-programming-language/">
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
@@ -38,7 +36,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/data-analytics/">
-    <img alt="Future Data Analytics" src="https://img.shields.io/badge/Future_Data_Analytics-009688?style=for-the-badge&logo=google-analytics&logoColor=white" />
+    <img alt="Data Analytics" src="https://img.shields.io/badge/Future_Data_Analytics-009688?style=for-the-badge&logo=google-analytics&logoColor=white" />
   </a>
 </p>
 
