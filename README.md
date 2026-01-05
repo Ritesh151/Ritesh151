@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://riteshgajjarport.netlify.app"><strong>🌐 Portfolio</strong></a> &nbsp;|&nbsp;
+  <a href="https://riteshgajjar.netlify.app"><strong>🌐 Portfolio</strong></a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/ritesh-gajjar"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
   <a href="mailto:riteshgajjarop1510@gmail.com"><strong>📧 Email</strong></a>
 </p>
