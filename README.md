@@ -2,7 +2,7 @@
 
 <h1 align="center">🚀 Ritesh Gajjar</h1>
 <h3 align="center">💻 Full Stack Developer</h3>
-<h4 align="center">✨ Flutter | MERN | Firebase Expert</h4>
+<h4 align="center">✨ Data Scienctist | Flutter | Firebase Expert</h4>
 
 
 <p align="center">
